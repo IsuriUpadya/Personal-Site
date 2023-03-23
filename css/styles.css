@@ -226,8 +226,15 @@ a {
     font-family: "sono", sans-serif;
  }   
  .linked-in {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+ }
+.footer-link {
+    display: inline-block;
+    vertical-align: middle;
  }
  
     
